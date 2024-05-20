@@ -101,9 +101,9 @@ h3 {
   word-spacing: 2px;
   line-height: 1.8;
 }
-.saleH1 {
-  font-style: ;
-}
+/* .saleH1 {
+  font-style:
+} */
 .saleH3 {
   font-weight: 400;
 }
@@ -172,8 +172,8 @@ h3 {
   height: 700px;
   margin: 30px;
 }
-.recH1 {
-}
+/* .recH1 {
+} */
 h4 {
   width: 100%;
 }
